@@ -9,8 +9,8 @@ Currently, two official plugins are available:
 
 ### Links
 
-- Solution URL: [URL is here]()
-- Live Site URL: [URL is here]()
+- Solution URL: [URL is here](https://github.com/masum-hosen/react-products-listing-apps)
+- Live Site URL: [URL is here](https://incredible-choux-862091.netlify.app/)
 
 ## Expanding the ESLint configuration
 
